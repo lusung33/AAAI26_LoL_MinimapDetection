@@ -4,12 +4,9 @@
 > **Accepted at the AAAI-26 Student Abstract and Poster Program (SAPP), Singapore**
 
 ---
+## Demo Video
 
-<div align="center">
-  <video src="https://github.com/lusung33/AAAI26_LoL_MinimapDetection/raw/main/results/video/vis_sample_output_video.mp4" width="100%" controls autoplay muted loop>
-    Your browser does not support the video tag.
-  </video>
-</div>
+
 
 ---
 
