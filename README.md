@@ -6,7 +6,9 @@
 ---
 ## Demo Video
 
-
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/17db250a-b679-4fa0-9b91-6f10c6b5608f" width="100%" controls autoplay muted loop></video>
+</div>
 
 ---
 
