@@ -6,7 +6,7 @@
 ---
 ## Demo Video
 
-https://github.com/user-attachments/assets/7ce0c145-2d80-4ef0-ada2-d9470796e8de
+You can find demo video at results/video/vis_sample_output_video
 
 ---
 
