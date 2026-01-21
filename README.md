@@ -9,6 +9,15 @@
 You can find demo video at results/video/vis_sample_output_video
 
 ---
+## Result
+| Model Name | Training Feature | mAP@[.50:.95] |
+|---------------|------------------|------------|
+| **Ours** | **Scratch, No Aug (except slight hsv)** | **0.699** |
+| Ours | COCO Pretrained, No Aug (except slight hsv) | 0.688 |
+| Ours | Scratch, Aug (General Aug includes Rotating, Fliping ...) | 0.679 |
+| Baseline (Replay Only) | COCO Pretrained, No Aug | 0.620 |
+| Baseline (Replay Only) | Scratch, No Aug | 0.382 |
+| Baseline (Synthetic Only) | Scratch, No Aug | 0.338 |
 
 ## Dataset & Model
 | Dataset | Name | HF Link |
