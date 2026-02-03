@@ -106,10 +106,12 @@ python -m scripts.eval.evaluator
 
 If you find this work useful in your research, please consider citing:
 
+```bibtex
 @inproceedings{lee2026synthetic,
   title={{Synthetic-to-Real Transfer Learning for League of Legends Minimap Object Detection (Student Abstract)}},
   author={Younsung Lee and Yujin Kim and Kyung-Joong Kim},
   booktitle={Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)},
   year={2026},
-  note={Student Abstract, To Appear}
+  note={Student Abstract and Poster Program, To Appear}
 }
+```
